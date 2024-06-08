@@ -1,0 +1,1 @@
+import{u as t,c as a,a as o,t as r,n as s,d as n,o as u}from"./-1JRC535.js";const d={__name:"index",setup(c){const e=t();return(l,p)=>(u(),a("div",null,[o("p",null,"Current route: "+r(s(e).path),1),n(" Hello World page ")]))}};export{d as default};

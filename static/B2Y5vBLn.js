@@ -1,0 +1,1 @@
+import{u as t,c as a,a as o,t as r,n as s,d as u,o as n}from"./-1JRC535.js";const d={__name:"about",setup(c){const e=t();return(l,p)=>(n(),a("div",null,[o("p",null,"Current route: "+r(s(e).path),1),u(" About Page ")]))}};export{d as default};
